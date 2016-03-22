@@ -1,0 +1,15 @@
+com/mwyn/auth/persistence/model/LabelValue$1.class
+com/mwyn/auth/security/config/OAuth2ResourceServerConfig.class
+com/mwyn/auth/persistence/config/PersistenceConfig.class
+com/mwyn/auth/persistence/model/BaseObject.class
+com/mwyn/auth/persistence/model/User.class
+com/mwyn/auth/security/config/OAuth2AuthorizationServerConfig.class
+com/mwyn/auth/persistence/dao/impl/UserDaoImpl.class
+com/mwyn/auth/security/config/Oauth2WebSecurityConfigureAdapter.class
+com/mwyn/auth/persistence/dao/AuthGenericDao.class
+com/mwyn/auth/persistence/service/OAuthUserDetailService.class
+com/mwyn/auth/persistence/model/LabelValue.class
+com/mwyn/auth/persistence/dao/impl/AuthGenericDaoImpl.class
+com/mwyn/auth/persistence/model/Role.class
+com/mwyn/auth/persistence/dao/UserDao.class
+com/mwyn/auth/security/config/OAuthBeanConfig.class
